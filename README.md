@@ -115,3 +115,4 @@ Evita Ebay in quanto ci sono stati casi di truffe.
 Evita Amazon per lo stesso motivo.
 
 [Recensione sul Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md)
+[Compra il Ledger Nano S](https://www.ledgerwallet.com/r/c3d5?path=/products/ledger-nano-s&tracker=SCONTO-GH)
