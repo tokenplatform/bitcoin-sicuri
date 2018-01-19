@@ -14,7 +14,7 @@ Cominciamo a parlare dell’estetica: il Ledger Nano S si contraddistingue per u
 
 La configurazione di questo piccolo hardware wallet è molto semplice: basterà creare il PIN per proteggere l’accesso al wallet e copiare in un foglio di carta (non nel tuo computer) il seed che comparirà nello schermo! Per creare il codice PIN composto da 4 cifre basterà usare i due bottoni del wallet per aumentare/diminuire il numero e premendoli contemporaneamente per confermare la cifra. Il PIN servirà per confermare le transazioni, proteggendo le tue cryprovalute in caso di smarrimento del wallet; in quanto non è possibile effettuare transazioni senza di esso. Nella confezione del Ledger Nano S troverai anche un foglio in cui scrivere la passphrase di 24 parole, che ti servirà da “chiave di backup” per le tue monete.
 
-[Consiglio] prima di inserire cryptovalute, resettate il vostro [Ledger Nano S](https://www.ledgerwallet.com/r/c3d5?path=/products/ledger-nano-s&tracker=SCONTO-GH) Nano S (inserendo tre volte il PIN sbagliato) dopodiché effettuate il recupero con le 24 parole. Se tutto va bene, mettete pure le vostre criptovalute.
+[Consiglio] prima di inserire cryptovalute, resettate il vostro [Ledger Nano S](https://www.ledgerwallet.com/r/c3d5?path=/products/ledger-nano-s&tracker=SCONTO-GH) (inserendo tre volte il PIN sbagliato) dopodiché effettuate il recupero con le 24 parole. Se tutto va bene, mettete pure le vostre criptovalute.
 
 ![first](https://raw.githubusercontent.com/tokenplatform/bitcoin-sicuri/master/ledger/foglio-seed-originale-980x1600.jpg)
 
