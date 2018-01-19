@@ -1,7 +1,6 @@
 # bitcoin-sicuri
 come tenere al sicuro i propri bitcoin?
 
-
 ## INCIPIT
 
 Al momento l'hardware wallet è il modo più sicuro per tenere al sicuro le tue criptovalute.
@@ -12,7 +11,7 @@ Si tratta di un dispositivo USB di solito con un piccolo schermo, che tiene le t
 Esistono diversi produttori, le ditte piú affidabili sono: 
 
 - Trezor
-- Ledger.
+- [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md).
 
 Un nuovo produttore che si é affacciato nel mercato é KeepKey.
 
@@ -28,7 +27,7 @@ Il Trezor è più semplice da usare:
 Tutte le criptovalute sono gestibili dalla stessa interfaccia web (nel browser) tranne Ethereum (e di conseguenza le ERC20, cioè le criptovalute basate su Ethereum) che si appoggia a MyEtherWallet.
 L'inserimento del PIN avviene a browser. Sullo schermo del Trezor vedi solo in che ordine farlo.
 
-Il Ledger è leggermente più complicato:
+Il [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md) è leggermente più complicato:
 
 Ogni criptovaluta richiede una app di Chrome diversa. Per installarle devi andare nell'applicazione Ledger Manager, un'altra app.
 Alcune criptovalute, per esempio XRP, richiedono che si installi il loro wallet sul quale poi Ledger si appoggia.
@@ -39,11 +38,11 @@ Da Giugno 2018 Google ha deciso di non supportare piú Ledger Wallet, quindi sta
 
 Entrambi sono sicuri. Entrambi sono open hardware e open software. Con una differenza, Ledger Wallet usa un processore proprietario.
 
-Qui https://support.ledgerwallet.com/hc/en-us/articles/115005198485-Hardware-wallets-FAQ spiegano i motivi della scelta.
+Qui [nel sito del supporto](https://support.ledgerwallet.com/hc/en-us/articles/115005198485-Hardware-wallets-FAQ) spiegano i motivi della scelta.
  
 ### CRIPTOVALUTE
 
-Il Ledger supporta un numero maggiore di criptovalute:
+Il [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md) supporta un numero maggiore di criptovalute:
 
 Il Trezor supporta solo queste criptovalute:
 
@@ -66,7 +65,7 @@ Su MyEtherWallet:
 
 Su NEM Nano Wallet: NEM (XEM)
 
-Il Ledger ne supporta di più:
+Il [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md) ne supporta di più:
 
 * Bitcoin (BTC)
 * Bitcoin Cash (BCH)
@@ -93,24 +92,26 @@ Il Ledger ne supporta di più:
 * Qtum (QTUM)
 * PivX (PIVX)
 
-Purtroppo per motivi di spazio sul Ledger Nano S non è possibile tenere tutte le app, ma al massimo 4.
+Purtroppo per motivi di spazio sul [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md) Nano S non è possibile tenere tutte le app, ma al massimo 4.
 Quindi se dovessi avere piú criptovalute dopo aver installato le prime 4 devi cancellare le app, installare le altre app e spedirti le criptovalute a quegli indirizzi.
 Se le devi movimentarle dovrai cancellare un'app e installarne un'altra.
-Le criptovalute rimangono sempre tue, non le perdi cancellando l'app, ma è un altro livello di complicazione del quale tenere conto.
+
+[Info] Le criptovalute rimangono sempre tue, non le perdi cancellando l'app, ma è un altro livello di complicazione del quale tenere conto.
 
  
 ### MANIFATTURA
 
 Trezor è di Praga, Ledger è francese.
 Il Trezor è plastica, più grande ed ingombrante.
-Il Ledger è più metallo ed appare più resistente.
+Il [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md) è più metallo ed appare più resistente. [Guarda le foto](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md)
 
  
 ### COSTO E ACQUISTO
 
-I prezzi cambiano spesso. C'è infatti molta più domanda che offerta. Il Ledger Nano S al momento é quello con rapporto prezzo prestazioni migliore. Infatti é sempre out of stock.
+I prezzi cambiano spesso. C'è infatti molta più domanda che offerta. Il [Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md) Nano S al momento é quello con rapporto prezzo prestazioni migliore. Infatti é sempre out of stock.
 
 Conviene, per sicurezza, comprare direttamente dai siti dei produttori.
 Evita Ebay in quanto ci sono stati casi di truffe.
 Evita Amazon per lo stesso motivo.
 
+[Recensione sul Ledger](https://github.com/tokenplatform/bitcoin-sicuri/blob/master/ledger/index.md)
