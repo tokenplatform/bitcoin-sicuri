@@ -10,8 +10,10 @@ Il vantaggio é che l'uso, per tenere al sicuro le vostre crypto, é semplice ri
 Si tratta di un dispositivo USB di solito con un piccolo schermo, che tiene le tue chiavi private (e quindi le tue cryptocurrencies) al sicuro.
 
 Esistono diversi produttori, le ditte piú affidabili sono: 
+
 - Trezor
 - Ledger.
+
 Un nuovo produttore che si é affacciato nel mercato é KeepKey.
 
 ### Qual'è migliore?
@@ -23,18 +25,20 @@ Ecco le maggior differenze tra i due hardware wallet:
 
 Il Trezor è più semplice da usare:
 
-    Tutte le criptovalute sono gestibili dalla stessa interfaccia web (nel browser) tranne Ethereum (e di conseguenza le ERC20, cioè le criptovalute basate su Ethereum) che si appoggia a MyEtherWallet.
-    L'inserimento del PIN avviene a browser. Sullo schermo del Trezor vedi solo in che ordine farlo.
+Tutte le criptovalute sono gestibili dalla stessa interfaccia web (nel browser) tranne Ethereum (e di conseguenza le ERC20, cioè le criptovalute basate su Ethereum) che si appoggia a MyEtherWallet.
+L'inserimento del PIN avviene a browser. Sullo schermo del Trezor vedi solo in che ordine farlo.
 
 Il Ledger è leggermente più complicato:
 
-    Ogni criptovaluta richiede una app di Chrome diversa. Per installarle devi andare nell'applicazione Ledger Manager, un'altra app.
-    Alcune criptovalute, per esempio XRP, richiedono che si installi il loro wallet sul quale poi Ledger si appoggia.
-    Da Giugno 2018 Google ha deciso di non supportare piú Ledger Wallet, quindi stanno realizzando le proprie.
+Ogni criptovaluta richiede una app di Chrome diversa. Per installarle devi andare nell'applicazione Ledger Manager, un'altra app.
+Alcune criptovalute, per esempio XRP, richiedono che si installi il loro wallet sul quale poi Ledger si appoggia.
+
+Da Giugno 2018 Google ha deciso di non supportare piú Ledger Wallet, quindi stanno realizzando le proprie.
  
 ### SICUREZZA
 
 Entrambi sono sicuri. Entrambi sono open hardware e open software. Con una differenza, Ledger Wallet usa un processore proprietario.
+
 Qui https://support.ledgerwallet.com/hc/en-us/articles/115005198485-Hardware-wallets-FAQ spiegano i motivi della scelta.
  
 ### CRIPTOVALUTE
